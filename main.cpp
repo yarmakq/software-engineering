@@ -8,14 +8,9 @@ int main() {
     cout << "Enter A: ";
 
     cin >> a;
-
     cout << "Enter B: ";
-
     cin >> b;
-
     cout << "A + B = " << a + b << '\n';
-
     cout << "A - B = " << a - b << '\n';
-
-    cout << "A * B = " << a * b << '\n';
+    cout << "A / B = " << a / b << '\n';
 }
